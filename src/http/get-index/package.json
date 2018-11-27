@@ -1,0 +1,8 @@
+{
+  "name": "dam-t001-get-index",
+  "dependencies": {
+    "@architect/data": "^2.0.8",
+    "@architect/functions": "^1.9.12",
+    "preact-render-to-string": "^4.1.0"
+  }
+}

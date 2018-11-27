@@ -1,0 +1,25 @@
+{
+  "name": "arc-example-templates",
+  "version": "1.0.0",
+  "description": "Example arc app using shared template string literals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/arc-example-templates.git"
+  },
+  "keywords": [],
+  "author": "@dam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/arc-example-templates/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/arc-example-templates#readme",
+  "dependencies": {
+    "@architect/architect": "4.1.0",
+    "@babel/preset-env": "^7.1.5",
+    "esm": "^3.0.84"
+  }
+}

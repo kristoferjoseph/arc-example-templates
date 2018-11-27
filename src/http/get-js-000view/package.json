@@ -1,0 +1,7 @@
+{
+  "name": "dam-t001-get-js-000view",
+  "dependencies": {
+    "@architect/data": "^2.0.8",
+    "@architect/functions": "^1.9.12"
+  }
+}
